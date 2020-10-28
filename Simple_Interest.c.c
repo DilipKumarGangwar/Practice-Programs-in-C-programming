@@ -4,8 +4,12 @@
 int main(){
      float principal,rate,time,si;
      //Take the Input
-     printf("Enter the principal,rate,time\n");
-     scanf("%f%f%f",&principal,&rate,&time);
+     printf("Enter principal:");
+     scanf("%f",&principal);
+     printf("Enter the rate of interest:");
+     scanf("%f",&rate); 
+     printf("Enter the time:");
+     scanf("%f",&time);
 
     //Do Processing
      si = (principal*rate*time)/100;
