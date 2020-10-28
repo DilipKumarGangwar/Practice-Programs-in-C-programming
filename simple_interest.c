@@ -1,6 +1,6 @@
-#include<stdio.h>
-
 //C program to calculate Simple Interest
+
+#include<stdio.h>
 int main(){
      float principal,rate,time,si;
      //Take the Input
@@ -9,7 +9,7 @@ int main(){
 
     //Do Processing
      si = (principal*rate*time)/100;
-     
+
     //Print output or SI
     printf("Simple interest=%.2f",si);
     return 0;
