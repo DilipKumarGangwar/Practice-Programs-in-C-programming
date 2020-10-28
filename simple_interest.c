@@ -11,6 +11,6 @@ int main(){
      si = (principal*rate*time)/100;
 
     //Print output or SI
-    printf("Simple interest=%.2f",si);
+    printf("Simple interest=%.2f",si); //.2f is used to print the result till 2 decimal places only
     return 0;
 }
