@@ -1,3 +1,7 @@
+/*C Program to do Arithmetic Operations on 2 numbers
+Add,Subtract,Multiply,Division,Modulus
+*/
+
 #include<stdio.h>
 int main()
 {
