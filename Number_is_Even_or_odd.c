@@ -7,7 +7,7 @@ int main()
     //Input
     printf("Enter the number");
     scanf("%d",&n);
-    //Processing
+    //Processing & Output
     if(n%2==0)
       printf("%d is Even number",n);
     else
