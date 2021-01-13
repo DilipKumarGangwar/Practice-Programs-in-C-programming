@@ -1,3 +1,5 @@
+//Comment necessary parts to run the program
+
 //Approach 1:Program to Check Character is in UpperCase or in lowerCase(using Nested if else)
 #include<stdio.h>
 int main()
